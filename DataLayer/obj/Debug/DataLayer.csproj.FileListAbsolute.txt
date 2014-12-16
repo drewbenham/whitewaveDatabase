@@ -1,0 +1,5 @@
+c:\Users\global sulfur\documents\visual studio 2013\Projects\Database\DataLayer\bin\Debug\DataLayer.dll
+c:\Users\global sulfur\documents\visual studio 2013\Projects\Database\DataLayer\bin\Debug\DataLayer.pdb
+c:\Users\global sulfur\documents\visual studio 2013\Projects\Database\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\Users\global sulfur\documents\visual studio 2013\Projects\Database\DataLayer\obj\Debug\DataLayer.dll
+c:\Users\global sulfur\documents\visual studio 2013\Projects\Database\DataLayer\obj\Debug\DataLayer.pdb
